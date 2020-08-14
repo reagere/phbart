@@ -4,8 +4,8 @@ tarteaucitron.init({
     "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     "cookieName": "tarteaucitron", /* Cookie name */
 
-    "orientation": "middle", /* Banner position (top - bottom) */
-    "showAlertSmall": true, /* Show the small banner on bottom right */
+    "orientation": "bottom", /* Banner position (top - bottom) */
+    "showAlertSmall": false, /* Show the small banner on bottom right */
     "cookieslist": true, /* Show the cookie list */
 
     "adblocker": false, /* Show a Warning if an adblocker is detected */
