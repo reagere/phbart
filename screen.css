@@ -2,15 +2,12 @@ body {
 	background-color:#ACC;
 	color:#000;
 }
-
 body, h1, h2, h3, h4, div {
 	font-family:"Gill Sans MT", "Gill sans", "Trebuchet ms", sans-serif;
 }
-
 p, ul, li {
 	font-family:"Georgia", serif;
 }
-
 img, div {
 	border:0px;
 	border-spacing:0px;
@@ -24,32 +21,25 @@ img.bulle {
 a {
 	color:#363;
 }
-
 a:active {
 	color:#633;
 }
-
 a:visited {
 	color:#696;
 }
-
 p {
 	color:#336;
 }
-
 h1,h2,h3 {
 	color:#633;
 }
-
 h2 {
 	margin-left:20px;
 }
-
 div.corps {
 	background:#D2EFF3;
 	border:1px solid #8AA;
 }
-
 div.logo {
 	padding-top:4px;
 	height:42px;
@@ -59,22 +49,18 @@ div.logo {
 	color:#966;
 	margin-left:5px;
 }
-
 div.logo a {
 	color:#966;
 	text-decoration:none;
 }
-
 div.logo a:active {
 	color:#966;
 	text-decoration:none;
 }
-
 div.logo a:visited {
 	color:#966;
 	text-decoration:none;
 }
-
 div.menu {
 	color:#688;
 	background:#9bb;
@@ -82,27 +68,18 @@ div.menu {
 	text-align:right;
 	font-family:"Georgia", serif;
 }
-
 img {
 	margin:2px;
 }
-
 div.page {
 	padding:25px;
 }
-
 div.annee {
 	float:right;
 }
-
 div.image {
 	text-align:center;
 }
-
-div.end {
-
-}
-
 div.copyright {
 	text-align:center;
 }
