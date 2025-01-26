@@ -3,7 +3,7 @@
 <url>
   <loc>http://boussemart.com/</loc>
   <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
+  <lastmod>2025-01-26</lastmod>
 </url>
 <url>
   <loc>http://boussemart.com/copies/</loc>
@@ -13,7 +13,7 @@
 <url>
   <loc>http://boussemart.com/creations/</loc>
   <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
+  <lastmod>2025-01-26</lastmod>
 </url>
 <url>
   <loc>http://boussemart.com/decorations/</loc>
@@ -34,6 +34,21 @@
   <loc>http://boussemart.com/divers/</loc>
   <changefreq>monthly</changefreq>
   <lastmod>2020-11-06</lastmod>
+</url>
+<url>
+  <loc>http://boussemart.com/creations/l_attente/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2025-1-26</lastmod>
+</url>
+<url>
+  <loc>http://boussemart.com/creations/atterrissage/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2025-1-26</lastmod>
+</url>
+<url>
+  <loc>http://boussemart.com/creations/l_attente/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2025-1-26</lastmod>
 </url>
 <url>
   <loc>http://boussemart.com/creations/MaBulle/</loc>
@@ -187,11 +202,6 @@
 </url>
 <url>
   <loc>http://boussemart.com/copies/vernet_marseille/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2020-11-06</lastmod>
-</url>
-<url>
-  <loc>http://boussemart.com/creations/MaBulle/</loc>
   <changefreq>monthly</changefreq>
   <lastmod>2020-11-06</lastmod>
 </url>
