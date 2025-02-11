@@ -63,12 +63,28 @@ div.logo a:visited {
 	text-decoration:none;
 }
 div.menu {
-	color:#466;
+	color:#688;
 	background:#acc;
 	height:20pt;
 	font-size:15pt;
+	font-weight: bold;
 	text-align:right;
-	font-family:"Georgia", serif;
+	padding: 5pt;
+}
+div.menu a {
+	color:#633;
+	text-decoration-style:dotted;
+	text-underline-offset: 3px;
+}
+div.menu a:active {
+	color:#633;
+	text-decoration-style:dotted;
+	text-underline-offset: 3px;
+}
+div.menu a:visited {
+	color:#633;
+	text-decoration-style:dotted;
+	text-underline-offset: 3px;
 }
 img {
 	margin:2px;
