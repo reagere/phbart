@@ -75,6 +75,7 @@ div.menu {
 }
 div.menu a {
 	display: inline-block;
+	-webkit-text-stroke: 0.5px #422;
 	padding: 5pt;
 	color:#633;
 	text-decoration-style:dotted;
@@ -82,11 +83,13 @@ div.menu a {
 }
 div.menu a:active {
 	color:#633;
+	-webkit-text-stroke: 0.5px #422;
 	text-decoration-style:dotted;
 	text-underline-offset: 3px;
 }
 div.menu a:visited {
 	color:#633;
+	-webkit-text-stroke: 0.5px #422;
 	text-decoration-style:dotted;
 	text-underline-offset: 3px;
 }
