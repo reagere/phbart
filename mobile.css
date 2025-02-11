@@ -1,0 +1,75 @@
+body {
+    background-color: #ACC;
+    color: #000;
+    font-family: "Gill Sans MT", "Gill sans", "Trebuchet ms", sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+div.corps {
+    background: #D2EFF3;
+    border: 1px solid #8AA;
+    flex-grow: 1;
+    padding: 10px; /* Added padding for better readability on mobile */
+}
+
+div.logo {
+    font-size: 24px; /* Reduced from 42pt for mobile */
+    padding: 10px 0;
+    text-align: center; /* Center for mobile */
+}
+
+div.menu {
+    font-size: 16px; /* Reduced from 15pt for mobile */
+    text-align: center; /* Center for mobile */
+    padding: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.menu a {
+    margin: 0 5px; /* Space between links */
+}
+
+div.page {
+    padding: 10px; /* Reduced padding for mobile */
+}
+
+/* Ensure images scale properly */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style for bulle images */
+img.bulle {
+    width: 15px; /* Adjusted size for mobile */
+    margin-left: 0; /* Reset margin for mobile */
+    position: absolute; /* Position relative to parent */
+    top: 0;
+    left: 0;
+}
+
+/* Adjust headings */
+h1, h2, h3, h4 {
+    font-size: 1.5em; /* Use em for scaling */
+}
+
+h2 {
+    margin-left: 0; /* Reset for mobile */
+}
+
+/* Paragraph adjustments */
+p, ul, li {
+    font-size: 1em; /* Use em for scaling */
+}
+
+/* Footer adjustments */
+div.copyright {
+    font-size: 0.8em; /* Smaller font size for mobile */
+    padding: 10px 0;
+}
